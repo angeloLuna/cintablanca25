@@ -1,0 +1,20 @@
+.menu{
+  /* borde */
+  border: 1px solid red;
+  /* distancia del elemento hacia afuera */
+  /* 4 lados */
+  margin: 50px;
+  /* margen individual */
+  /* margin-top: 50px;
+  margin-left: 100px;
+  margin-right: 5px;
+  margin-bottom: 200px; */
+  /* margenes verticales y horizontales */
+  /* margin: 100px 50px; */
+  /* margenes individuales sentido manesillas del reloj */
+  /* margin: 100px 50px 25px 10px; */
+}
+
+li{
+  border: solid 2px;
+}
