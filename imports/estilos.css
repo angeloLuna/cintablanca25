@@ -1,0 +1,27 @@
+/* Importamos una tipografía localmente */
+@font-face{
+  font-family: 'perritos';
+  src: url('fuentes/Ranga-Regular.ttf');
+}
+
+
+
+.titulo{
+  font-family: 'Federant', cursive;
+}
+
+.icono{
+  color: blue;
+  font-size: 600px;
+}
+
+.messenger-icono{
+  color: red;
+  font-size: 500px;
+}
+
+.github-icono{
+  color: purple;
+  font-size: 500px;
+}
+

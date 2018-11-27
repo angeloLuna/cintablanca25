@@ -1,0 +1,18 @@
+
+.custom-navbar{
+  background: #1e2734;
+  /* color: white; */
+}
+
+.custom-menu li  a{ 
+  /* border: 2px solid white; */
+  color: white;
+}
+
+.custom-menu-container{
+  justify-content: flex-end;
+}
+
+.img-logo{
+  width: 135px;
+}

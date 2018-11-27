@@ -18,3 +18,25 @@ li{
   color: white;
   margin-right: 20px;
 }
+
+
+.negritas{
+  color: red
+}
+
+.principal{
+  border: 1px solid red;
+  height: 400px;
+  background: rgb(89, 23, 133);
+
+}
+
+.secundario{
+  border: 2px solid green;
+  height: 200px;
+  background: rgb(104, 95, 14);
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
