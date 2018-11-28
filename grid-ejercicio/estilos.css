@@ -1,0 +1,20 @@
+.contenedor {
+  border: 1px solid red;
+}
+
+.contenido{
+  border: 1px solid blue;
+}
+
+.elementos{
+  border: 1px solid green;
+}
+
+.tarjetas{
+  border: 2px solid;
+  height: 400px;
+}
+
+.contenedor-tarjeta{
+  /* border: 1px solid blue; */
+}
